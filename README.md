@@ -1,2 +1,2 @@
 # Fistasolution-1-1269
-this is the fronend project to learn many new things like tailwind css next js javascript 
+ Hands-on project to explore and implement core concepts of Next.js, responsive design with Tailwind CSS, and interactive logic using JavaScript.
