@@ -177,7 +177,7 @@ export default function Dov2() {
       {/* Right: Testimonial or Content */}
       <div className="flex-[1_1_0%] min-w-0 w-full md:w-1/3 bg-gray-50 rounded-xl shadow-sm p-6 md:p-10 flex flex-col justify-center items-start mt-8 md:mt-0 md:ml-8">
         <blockquote className="text-lg md:text-xl text-gray-700 mb-6">
-          "Working with Decagon has been nothing short of phenomenal. The team has taken our extremely complicated data and created a tool that allows our customers to seamlessly receive help across our business."
+          &ldquo;Working with Decagon has been nothing short of phenomenal. The team has taken our extremely complicated data and created a tool that allows our customers to seamlessly receive help across our business.&rdquo;
         </blockquote>
         <div className="mt-4">
           <div className="font-bold text-xl text-gray-900">Thatcher Foster</div>

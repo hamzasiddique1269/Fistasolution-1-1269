@@ -20,7 +20,7 @@ export default function LastDiv() {
         </div>
         <div className="px-8 py-8 md:px-10 md:py-10 flex flex-col items-start gap-3">
           <h3 className="text-2xl md:text-3xl font-bold text-white">ClassPass</h3>
-          <p className="text-base md:text-lg text-gray-300">ClassPass increased deflection rate by 10x and scaled customer chat to 24/7 with Decagon's AI agents.</p>
+          <p className="text-base md:text-lg text-gray-300">ClassPass increased deflection rate by 10x and scaled customer chat to 24/7 with Decagon&apos;s AI agents.</p>
         </div>
       </div>
       {/* Card 3 */}
